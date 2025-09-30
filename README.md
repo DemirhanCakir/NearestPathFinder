@@ -67,8 +67,3 @@ Developed by [DemirhanCakir](https://github.com/DemirhanCakir)
 ## License
 
 MIT License (see LICENSE file)
-
----
-
-**Showcase:**  
-![App Screenshot](istanbul.png)
